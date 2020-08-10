@@ -24,3 +24,12 @@ Download the 6B.50.50d.txt file and extract the file in the same directory as th
 Downloading Link-> [glove.6B.50D.txt](https://www.kaggle.com/watts2/glove6b50dtxt)
 
 # Result
+<img src="./results/res1.png" height="300" width="600">
+<br>
+<img src="./results/res2.png" height="300" width="600">
+<br>
+<img src="./results/res3.png" height="300" width="600">
+<br>
+<img src="./results/res4.png" height="300" width="600">
+<br>
+<img src="./results/res5.png" height="300" width="600">
